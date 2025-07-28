@@ -2,15 +2,15 @@
 
 [org.gnome.desktop.interface]
 color-scheme='prefer-dark'
-gtk-theme='Vimix-dark-ruby'
+gtk-theme='Lavanda-Sea-Dark'
 icon-theme='Citrus-red-dark'
 cursor-theme='breeze_cursors'
 cursor-size=24
 
 
 [org.gnome.desktop.wm.preferences]
-theme='Vimix-dark-ruby'
+theme='Lavanda-Sea-Dark'
 
 
 [org.gnome.shell.extensions.user-theme]
-name='Vimix-dark-ruby'
+name='Lavanda-Sea-Dark'
